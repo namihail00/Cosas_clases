@@ -1,0 +1,21 @@
+package Colecciones;
+
+import java.util.HashSet;
+import java.util.TreeSet;
+
+public class Principal {
+public static void main(String[] args) {
+	HashSet<String> conjuntoStrings = new HashSet<String>();
+	conjuntoStrings.add("Nik");
+	conjuntoStrings.add("Mih");
+	conjuntoStrings.add("Alex");
+	
+	System.out.println(conjuntoStrings.size());
+	System.out.println(conjuntoStrings);
+	
+	TreeSet<Integer> conjuntoEnteros = new TreeSet<Integer>();
+	conjuntoEnteros.add(10);
+	conjuntoEnteros.add(15);
+	conjuntoEnteros.add(14);
+}
+}

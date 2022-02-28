@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void forHaiku(HashMap&lt;String,Integer&gt; resultado, ArrayList&lt;String&gt; haiku)&apos; from &apos;Haiku.Haiku.nVecesSilaba()&apos; to &apos;Haiku.Haiku&apos;&#x0D;&#x0A;- Original project: &apos;ArrayCodBat+Repaso&apos;&#x0D;&#x0A;- Method name: &apos;forHaiku&apos;&#x0D;&#x0A;- Destination type: &apos;Haiku.Haiku&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;forHaiku&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;Haiku{Haiku.java" name="forHaiku" replace="false" selection="1382 320" stamp="1646069074899" version="1.0" visibility="2"/>
+</session>

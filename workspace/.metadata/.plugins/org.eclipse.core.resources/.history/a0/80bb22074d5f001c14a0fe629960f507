@@ -1,0 +1,10 @@
+package Colecciones;
+
+import java.util.HashSet;
+
+public class Principal {
+public static <E> void main(String[] args) {
+	HashSet<E> conjuntoStrings = new HashSet<>();
+	conjuntoStrings.add("Nik");
+}
+}

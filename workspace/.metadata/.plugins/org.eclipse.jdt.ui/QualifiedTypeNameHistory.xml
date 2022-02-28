@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Character.Subset"/>
+    <fullyQualifiedTypeName name="sun.util.calendar.Gregorian"/>
+    <fullyQualifiedTypeName name="sun.security.krb5.internal.crypto.dk.AesSha2DkCrypto"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="String1.String1"/>
+    <fullyQualifiedTypeName name="java.lang.CharSequence"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="Array.Clase"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+    <fullyQualifiedTypeName name="explicacion.Persona"/>
+    <fullyQualifiedTypeName name="cuadro.Perro"/>
+    <fullyQualifiedTypeName name="miprimerprograma.paquete1.B"/>
+    <fullyQualifiedTypeName name="clasesNico.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="clasesNico.Hora"/>
+    <fullyQualifiedTypeName name="com.iescomercio.prog.ud4.ej7.personal.EspecialidadMecanico"/>
+    <fullyQualifiedTypeName name="com.iescomercio.prog.ud4.ej7.personal.Mecanico"/>
+    <fullyQualifiedTypeName name="com.iescomercio.prog.ud4.ej7.maquinaria.Locomotora"/>
+    <fullyQualifiedTypeName name="com.iescomercio.prog.ud4.ej7.personal.Maquinista"/>
+    <fullyQualifiedTypeName name="com.iescomercio.prog.ud4.ej7.maquinaria.Tren"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="com.ejercicio.prog.Vehiculo"/>
+    <fullyQualifiedTypeName name="com.iescomercio.pro.ud5.hospital.Medico"/>
+    <fullyQualifiedTypeName name="com.iescomercio.pro.ud5.hospital.Cardiologo"/>
+    <fullyQualifiedTypeName name="com.iescomercio.pro.ud5.hospital.Estomatologo"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="sun.security.action.GetIntegerAction"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>
